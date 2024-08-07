@@ -1,12 +1,27 @@
-h1 {
-    color: #27aedb;
-    text-align: center;
-    }
-    
+/* index.css */
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
 
-button{
-    color: #27aedb;
-    text-align: center;
-    justify-content: center;
-    align-items: center;
+input {
+  margin: 5px;
+  padding: 10px;
+  font-size: 16px;
+}
+
+button {
+  margin: 5px;
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+h1 {
+  color: #333;
+}
+
+h3 {
+  margin-top: 20px;
+  color: #333;
 }
