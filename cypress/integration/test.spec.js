@@ -1,7 +1,7 @@
 // cypress/integration/tests/test.spec.js
 describe('sharable-url', () => {
     beforeEach(() => {
-      cy.visit('http://localhost:8080');
+      cy.visit('/');
     });
   
     it('checks if text first name field exists', () => {

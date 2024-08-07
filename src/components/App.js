@@ -1,4 +1,4 @@
-// App.js
+// src/App.js
 import React, { useState } from 'react';
 
 const App = () => {
